@@ -1,0 +1,27 @@
+/*
+os=36
+Apk Builder plugin not installed
+tablet=false
+model=moto g - 2025
+isChrome=false
+isTV=false
+DroidScript=2.78
+Storage access=Scoped
+screen width=720
+screen height=1604
+screen density=306
+display width=720
+display height=1445
+internal folder=/sdcard
+external folder=
+int free space=36.72708
+ext free space=NaN
+memory=3,820,036,096
+premium=false
+country code=US
+country=United States
+language code=en
+language=English
+wifi=0.0.0.0
+userAgent='Mozilla/5.0 (Linux; Android 16; moto g - 2025 Build/W1VKS36H.9-12-10-1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.55 Mobile Safari/537.36'
+*/
